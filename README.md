@@ -11,4 +11,4 @@ Python 3
 The solutions are inside the Week-x folders.
 
 ## Certificate
-The certificate can be found [here].(https://www.coursera.org/account/accomplishments/certificate/BQL7VXVV953A)
+The certificate can be found [here](https://www.coursera.org/account/accomplishments/certificate/BQL7VXVV953A).
